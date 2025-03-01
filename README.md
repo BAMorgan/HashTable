@@ -1,4 +1,4 @@
-# HashTable# HashTable and Anagram Finder Implementation in Java
+# HashTable and Anagram Finder Implementation in Java
 
 ## Overview
 This project implements a **custom HashTable** to efficiently find **anagrams** from a list of words. It includes:
